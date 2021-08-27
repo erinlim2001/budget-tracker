@@ -6,7 +6,7 @@
 The purpose of this project was to create add functionality to the existing Budget Tracker application to allow for offline access and functionality.
 
 ## Links
-- [Deployed Site](https://budget-tracker-elim.herokuapp.com/)
+- [Deployed Site](https://glacial-tundra-28372.herokuapp.com/)
 - [Code Repository](https://github.com/erinlim2001/budget-tracker)
 
 ## Installation
